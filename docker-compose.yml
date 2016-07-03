@@ -1,0 +1,15 @@
+version: "2"
+
+services:
+  resume:
+    build: resume/
+    image: jadametz/resume
+    command: serve
+    environment:
+      - theme=kwan
+    ports:
+      - 4000:4000
+    # I use this to make my life easier, but I'd rather not empose files
+    # onto your system :)
+    # volumes:
+    #   - ./resume/:/resume

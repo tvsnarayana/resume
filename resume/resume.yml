@@ -1,0 +1,172 @@
+# https://jsonresume.org/schema/
+# But yml is easier to write
+
+basics:
+  name: "Jesse Adametz"
+  label: >
+    Senior Data Engineer at Graphiq. Passion for automation, productivity,
+    elegant design, and craft beer.
+  email: "jesseadametz@gmail.com"
+  phone: "954-775-7232"
+  website: "https://www.jesseadametz.com"
+  summary: >
+    DevOps Engineer with a focus on creating repeatable processes and systems
+    that people enjoy using. Over the last 7 years I've honed my skills in
+    Data Engineering, Infrastructure Provisioning,
+    Database Development & Analysis, Automation, and Operations.
+
+  location:
+    postalCode: "CA 93103"
+    city: "Santa Barbara"
+    countryCode: "US"
+    region: "California"
+
+  profiles:
+    - network: "GitHub"
+      username: "jadametz"
+      url: "https://github.com/jadametz"
+
+    - network: "LinkedIn"
+      username: "jesseadametz"
+      url: "https://www.linkedin.com/in/jesseadametz"
+
+work:
+  - company: "Graphiq"
+    position: "Senior Data Engineer II"
+    website: "https://www.graphiq.com"
+    startDate: "2016-01-01"
+    summary: >
+      Graphiq is a semantic technology company that instantly delivers deep
+      insights from the world’s data. Since 2010, the company has amassed the
+      world's deepest and most interconnected knowledge graph, encompassing
+      500 collections, 1 billion entities, 250 billion data points and 25
+      billion curated relationships.
+
+      At Graphiq I am currently responsible for all offline infrastructure
+      which hosts our ETL Pipeline of recurring jobs and normalization services.
+    highlights:
+      - "Principal developer of Data team's Ansible managed AWS infrastructure"
+
+  - company: "Graphiq"
+    position: "Senior Data Engineer"
+    website: "https://www.graphiq.com"
+    startDate: "2014-07-01"
+    endDate: "2016-01-01"
+    summary: >
+      As a senior member of Graphiq's Data team I instantiated best practices
+      and standards around code quality, open source initiatives, build
+      pipelines, and infrastructure management.
+    highlights:
+      - "Contributed the pdi-fastjsoninput-plugin to Pentaho's Kettle project"
+      - >
+        Became co-chair of the Training & Development committee, responsible
+        for ensuring and coordinating the continued growth of Graphiq's team
+
+  - company: "Graphiq (formerly FindTheBest)"
+    position: "Data Engineer"
+    website: "https://www.graphiq.com"
+    startDate: "2013-08-30"
+    endDate: "2014-07-01"
+    summary: >
+      As an engineering resource for the Product Management team I developed
+      ETL solutions for ingesting new data sources into the Knowledge Graph,
+      allowing the team to expand into more complex and frequently updating
+      data sets.
+    highlights:
+      - >
+        Authored and led a 12 week curriculum on Pentaho's Data-Integration
+        (Kettle), which now serves as the foundation of Product Management's
+        onboarding process and enables self-service development of ETL
+        jobs.
+      - "Developed the first iteration of Engineering's ETL Scheduler and Pipeline"
+
+  - company: "Experian"
+    position: "Data Analyst / SQL Developer"
+    website: "http://www.experian.com/automotive/auto-data.html"
+    startDate: "2011-01-03"
+    endDate: "2013-09-13"
+    summary: >
+      At Experian I was part of the Autocount team of engineers responsible for
+      the reporting (22M Records/Year) of new and used vechile sales within
+      the U.S.
+    highlights:
+      - >
+        Developed well structured T-SQL, stored procedures, and SSIS packets
+        to automate and handle all ETL processes
+      - "Refactored monthly ETL processes, decreasing processing time by 25%"
+      - "Refined monthly commits to Reporting Warehouse, decreasing data transfer time by 50%"
+
+  - company: "Aon Hewitt"
+    position: "Setup Configuration Specialist"
+    website: "http://www.aon.com/human-capital-consulting/"
+    startDate: "2010-08-09"
+    endDate: "2010-12-24"
+    highlights:
+      - "Reviewed and executed test (including regression) plans in order to solve system defects"
+
+  - company: "Lockheed Martin"
+    position: "Management Information Systems Intern"
+    website: "http://www.lockheedmartin.com/us/mfc.html"
+    startDate: "2009-04-13"
+    endDate: "2010-08-05"
+    summary: >
+      As a member of the M-TADS/PNVS Reset team I helped to manage logistics of
+      three program contacts responsible for the maintenance of Apache helicopter
+      systems returning from theater.
+    highlights:
+      - "Developed and maintained loan tracking database and metrics to ensure contract integrity"
+
+education:
+  - institution: "University of Central Florida"
+    area: "Mangement Information Systems"
+    studyType: "Bachelor of Science"
+    startDate: "2006-06-15"
+    endDate: "2010-08-07"
+
+  - institution: "Valencia College"
+    area: "Computer Programming & Analysis"
+    studyType: "Associate of Science"
+    startDate: "2012-01-09"
+    endDate: "2013-04-01"
+
+skills:
+  - name: "DevOps"
+    level: "Intermediate"
+    keywords:
+      - "Ansible"
+      - "AWS"
+      - "Docker"
+      - "Jenkins"
+
+  - name: "Software Development"
+    level: "Master"
+    keywords:
+      - "MySQL (Percona)"
+      - "Pentaho Kettle"
+      - "Python "
+
+volunteer:
+  - organization: "Docker"
+    position: "Docker Santa Barbara Meetup Organizer"
+    website: "http://www.meetup.com/Docker-Santa-Barbara/"
+    startDate: "2016-05-31"
+    summary: "Organize monthly meetup events to discuss all things Docker."
+
+  - organization: "Code.org"
+    position: "Hour of Code Volunteer"
+    website: "https://code.org/learn"
+    startDate: "2015-12-08"
+    endDate: "2015-12-08"
+    summary: >
+      Worked with a 2nd grade class at Leonora Fillmore Elementary School in
+      Lompoc, CA to introduce them to Computer Science and help with
+      Code.org's interactive learning lessons.
+
+awards:
+  - title: "Winner: Fuelzee"
+    date: "2012-11-11"
+    awarder: "Startup Weekend Orlando"
+    summary: >
+      Fuelzee is like Foursquare for gas stations, but with real-time rewards.
+      We help you find the cheapest gas near you, and give you rewards on
+      things like Snickers, Slurpee’s, Slim-Jims, and gas!"
