@@ -10,7 +10,7 @@ basics:
   phone: "954-775-7232"
   website: "https://www.jesseadametz.com"
   summary: >
-    DevOps Engineer with a focus on creating repeatable processes and systems
+    DevOps / Data Engineer with a focus on creating repeatable processes and systems
     that people enjoy using. Over the last 7 years I've honed my skills in
     Data Engineering, Infrastructure Provisioning,
     Database Development & Analysis, Automation, and Operations.
@@ -130,20 +130,33 @@ education:
     endDate: "2013-04-01"
 
 skills:
-  - name: "DevOps"
-    level: "Intermediate"
+  - name: "Daily Toolbelt"
+    level: "Advanced"
     keywords:
       - "Ansible"
       - "AWS"
+      - "Data (incl. filesystem) Migration"
       - "Docker"
       - "Jenkins"
+      - "Percona / MySQL"
+      - "Python"
 
-  - name: "Software Development"
-    level: "Master"
+  - name: "Techniques"
+    level: "Intermediate"
     keywords:
-      - "MySQL (Percona)"
-      - "Pentaho Kettle"
-      - "Python "
+      - "Configuration Management"
+      - "Continuous Integration / Deployment"
+      - "TDD"
+
+  - name: "Other"
+    level: "Intermediate"
+    keywords:
+      - "Bash"
+      - "Java"
+      - "JavaScript"
+      - "Kafka"
+      - "PHP"
+
 
 volunteer:
   - organization: "Docker"
