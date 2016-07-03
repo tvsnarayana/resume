@@ -31,5 +31,5 @@ $ docker run --rm jadametz/resume json
 
 ## Obvious disclaimer
 
-This is the resume of [Jesse Adametz](http://jesseadametz.com). Before using any of this, please remove
+This is the resume of [Jesse Adametz](https://jesseadametz.com). Before using any of this, please remove
 all of my information.
