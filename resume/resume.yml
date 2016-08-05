@@ -4,13 +4,13 @@
 basics:
   name: "Jesse Adametz"
   label: >
-    Senior Data Engineer at Graphiq. Passion for automation, productivity,
+    Cloud Operations Engineer at Invoca. Passion for automation, productivity,
     elegant design, and craft beer.
   email: "jesseadametz@gmail.com"
   phone: "954-775-7232"
   website: "https://www.jesseadametz.com"
   summary: >
-    DevOps / Data Engineer with a focus on creating repeatable processes and systems
+    Cloud Operations Engineer with a focus on creating repeatable processes and systems
     that people enjoy using. Over the last 7 years I've honed my skills in
     Data Engineering, Infrastructure Provisioning,
     Database Development & Analysis, Automation, and Operations.
@@ -31,54 +31,34 @@ basics:
       url: "https://www.linkedin.com/in/jesseadametz"
 
 work:
+  - company: "Invoca"
+    position: "Cloud Operations Engineer"
+    website: "http://www.invoca.com"
+    startDate: "2016-08-08"
+
   - company: "Graphiq"
     position: "Senior Data Engineer II"
     website: "https://www.graphiq.com"
-    startDate: "2016-01-01"
+    startDate: "2013-08-30"
+    endDate: "2016-08-05"
     summary: >
       Graphiq is a semantic technology company that instantly delivers deep
       insights from the world’s data. Since 2010, the company has amassed the
       world's deepest and most interconnected knowledge graph, encompassing
       500 collections, 1 billion entities, 250 billion data points and 25
       billion curated relationships.
-
-      At Graphiq I am currently responsible for all offline infrastructure
-      which hosts our ETL Pipeline of recurring jobs and normalization services.
     highlights:
       - "Principal developer of Data team's Ansible managed AWS infrastructure"
-
-  - company: "Graphiq"
-    position: "Senior Data Engineer"
-    website: "https://www.graphiq.com"
-    startDate: "2014-07-01"
-    endDate: "2016-01-01"
-    summary: >
-      As a senior member of Graphiq's Data team I instantiated best practices
-      and standards around code quality, open source initiatives, build
-      pipelines, and infrastructure management.
-    highlights:
       - "Contributed the pdi-fastjsoninput-plugin to Pentaho's Kettle project"
       - >
         Became co-chair of the Training & Development committee, responsible
         for ensuring and coordinating the continued growth of Graphiq's team
-
-  - company: "Graphiq (formerly FindTheBest)"
-    position: "Data Engineer"
-    website: "https://www.graphiq.com"
-    startDate: "2013-08-30"
-    endDate: "2014-07-01"
-    summary: >
-      As an engineering resource for the Product Management team I developed
-      ETL solutions for ingesting new data sources into the Knowledge Graph,
-      allowing the team to expand into more complex and frequently updating
-      data sets.
-    highlights:
       - >
         Authored and led a 12 week curriculum on Pentaho's Data-Integration
         (Kettle), which now serves as the foundation of Product Management's
         onboarding process and enables self-service development of ETL
         jobs.
-      - "Developed the first iteration of Engineering's ETL Scheduler and Pipeline"
+      - "Developed and maintained Engineering's ETL Scheduler and Pipeline"
 
   - company: "Experian"
     position: "Data Analyst / SQL Developer"
