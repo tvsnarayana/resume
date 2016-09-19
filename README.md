@@ -1,5 +1,7 @@
 # Resume
 
+[![](https://images.microbadger.com/badges/image/jadametz/resume.svg)](http://microbadger.com/images/jadametz/resume "Get your own image badge on microbadger.com")
+
 My resume, source controlled, and in a few different formats.
 
 ## Getting started
