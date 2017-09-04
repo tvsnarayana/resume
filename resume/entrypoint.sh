@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env sh
 
 case $1 in
     "json") yaml2json resume.yml --pretty;;
