@@ -4,14 +4,14 @@
 basics:
   name: "Jesse Adametz"
   label: >
-    Cloud Operations Engineer at Invoca. Passion for automation, productivity,
+    Senior Cloud Operations Engineer at Invoca. Passion for automation, productivity,
     elegant design, and craft beer.
   email: "jesseadametz@gmail.com"
   phone: "954-775-7232"
   website: "https://www.jesseadametz.com"
   summary: >
-    Cloud Operations Engineer with a focus on creating repeatable processes and systems
-    that people enjoy using. Over the last 7 years I've honed my skills in
+    Senior Cloud Operations Engineer with a focus on creating repeatable processes and systems
+    that people enjoy using. Over the last 8 years I've honed my skills in
     Data Engineering, Infrastructure Provisioning,
     Database Development & Analysis, Automation, and Operations.
 
@@ -32,9 +32,21 @@ basics:
 
 work:
   - company: "Invoca"
+    position: "Senior Cloud Operations Engineer"
+    website: "https://www.invoca.com/"
+    startDate: "2017-09-01"
+
+  - company: "Invoca"
     position: "Cloud Operations Engineer"
-    website: "http://www.invoca.com"
+    website: "https://www.invoca.com/"
     startDate: "2016-08-08"
+    endDate: "2017-08-31"
+    summary: >
+      Invoca helps the modern marketer optimize for the most important step
+      in the customer journey, the phone call. With Invoca’s Voice Marketing Cloud,
+      marketers can get granular campaign attribution to understand why customers
+      are calling, gain real-time intelligence about who’s calling and analyze what’s
+      being said in conversations.
 
   - company: "Graphiq"
     position: "Senior Data Engineer II"
